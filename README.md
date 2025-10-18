@@ -24,7 +24,5 @@ Notebook zawiera eksploracyjną analizę danych (EDA) oraz serię testów statys
 
 Projekt ma na celu pokazanie praktycznego zastosowania testów statystycznych w analizie danych nieruchomości oraz rozwijanie umiejętności interpretacji wyników w kontekście biznesowym i urbanistycznym.
 
-## 📬 Autor
 
-Chris Kawka  
 GitHub: [github.com/KawiorPL](https://github.com/KawiorPL)
