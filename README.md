@@ -24,5 +24,13 @@ Notebook zawiera eksploracyjną analizę danych (EDA) oraz serię testów statys
 
 Projekt ma na celu pokazanie praktycznego zastosowania testów statystycznych w analizie danych nieruchomości oraz rozwijanie umiejętności interpretacji wyników w kontekście biznesowym i urbanistycznym.
 
+## ▶️ Uruchomienie
+
+Notebook można uruchomić lokalnie w środowisku **Jupyter Notebook** lub **JupyterLab**.  
+Wymagane biblioteki: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scipy`, `statsmodels`, `requests`.
+
+Alternatywnie można skorzystać z [Google Colab](https://colab.research.google.com/) — wystarczy zaimportować plik `.ipynb`, bez konieczności instalacji lokalnej.  
+Wszystkie wymienione biblioteki są dostępne domyślnie w środowisku Colab.
+
 
 GitHub: [github.com/KawiorPL](https://github.com/KawiorPL)
